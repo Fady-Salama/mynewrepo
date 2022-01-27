@@ -1,7 +1,7 @@
 var obj = {
     name:"fady salama",
     age:23,
-    address:"Egypt"
+   
 }
 
 var handler = {
