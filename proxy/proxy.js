@@ -34,7 +34,7 @@ var handler = {
 
 var p = new Proxy(obj,handler)
 
-p.age = "fady";
+p.age = 26;
 
 
 
